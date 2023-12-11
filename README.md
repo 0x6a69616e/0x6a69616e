@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **0x6a69616e/0x6a69616e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x6a69616e&show_icons=true&theme=transparent)
+
+```
+              _
+          .-'` `}
+  _./)   /       }
+.'o   \ |       }
+'.___.'`.\    {`
+/`\_/  , `.    }
+\=' .-'   _`\  {
+ `'`;/      `,  }
+    _\       ;  }
+   /__`;-...'--'
+```
