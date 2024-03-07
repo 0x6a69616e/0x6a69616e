@@ -19,8 +19,3 @@ Here are some ideas to get you started:
  |、˜〵
  じしˍ,)ノ
 ```
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=0x6a69616e&show_icons=true&theme=transparent&hide_title=true&line_height=22&hide_border=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x6a69616e&layout=compact&theme=transparent&hide_title=true&line_height=22&hide_border=true" />
-</div>
